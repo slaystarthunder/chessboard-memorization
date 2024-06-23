@@ -1,0 +1,8 @@
+.chessboard {
+    display: inline-block;
+  }
+  
+  .board-row {
+    display: flex;
+  }
+  
